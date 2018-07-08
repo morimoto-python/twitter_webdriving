@@ -1,0 +1,2 @@
+# twitter_webdriving
+Twitterにログインしてフォロワーの情報を取得し表示する。Chrome Driver使用。
